@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type":"module",
   "bugs": {
     "url": "https://github.com/SchoolOfCode/node-101-workshop-josh-apoorwa/issues"
   },
