@@ -13,9 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type":"module",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/SchoolOfCode/node-101-workshop-josh-apoorwa/issues"
   },
-  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-josh-apoorwa#readme"
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-josh-apoorwa#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
